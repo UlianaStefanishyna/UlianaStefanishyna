@@ -7,7 +7,14 @@
 - 💼 I have 6 years of working experience in the industry overall. 
 - 🌱 I am passionate about personal growth and continuous learning. 
 - 📫 How to reach me: send me an email at ustefs@gmail.com or DM me in social meadia.
+- 😄 Pronouns: she/her
+- 💬 Ask me what Socrates taught us about quantum mechanics
 
+---
+
+<h3 align="center">
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=UlianaStefanishyna&theme=highcontrast&hide_border=true" width="350" /></a>
+</h3>
 
 
 <p align="center">
