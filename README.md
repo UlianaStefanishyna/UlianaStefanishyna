@@ -12,8 +12,10 @@
 ---
 
 <h3 align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=UlianaStefanishyna&theme=highcontrast&hide_border=true" width="350" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=UlianaStefanishyna&theme=highcontrast&hide_border=true" width="420" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=UlianaStefanishyna&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </h3>
+
 
 ---
 
