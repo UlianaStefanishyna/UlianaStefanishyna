@@ -7,7 +7,7 @@
 - 💼 I have 6y of working experience in the industry overall. 
 - 🌱 I am passionate about personal growth and continuous learning. 
 - 📫 How to reach me: send me an email at ustefs@gmail.com or DM me in social meadia.
-- 💬 Ask me what Socrates taught us about quantum mechanics
+- 💬 Ask me what Socrates taught us about quantum mechanics.
 
 ---
 
