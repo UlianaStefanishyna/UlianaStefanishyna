@@ -3,7 +3,7 @@
 
 &nbsp;
 
-- 🔭 I am currently working at [Amazon](https://en.wikipedia.org/wiki/Amazon_(company)) as a Software Development Engineer II for over 3y. 
+- 🔭 I am currently working at [Amazon](https://en.wikipedia.org/wiki/Amazon_(company)) as a Software Development Engineer II for over 3 years. 
 - 💼 I have 6y of working experience in the industry. 
 - 🌱 I am passionate about personal growth and continuous learning. 
 - 📫 How to reach me: send me an email at ustefs@gmail.com or DM me in social media.
