@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://twitter.com/uliana_stef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="uliana_stef" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/ulianastefanishyna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ulianastefanishyna" height="30" width="30" /></a>
-<a href="https://instagram.com/uliana_stefanishyna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="uliana_stefanishyna" height="30" width="30" /></a>
+<a href="https://instagram.com/uliana.stefanishyna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="uliana.stefanishyna" height="30" width="30" /></a>
 </p>
 
 <!--
