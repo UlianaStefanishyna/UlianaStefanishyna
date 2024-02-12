@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋 Uliana here :) </h1>
-<h3 align="center">Software Engineer at Amazon Web Services (AWS)</h3>
+<h3 align="center">Software Engineer</h3>
 
 &nbsp;
 
-- 🔭 I am currently working as a Software Development Engineer II at [Amazon Web Services (AWS)](https://aws.amazon.com) for over 4 years. 
+- 🔭 I am currently working as a Software Development Engineer. 
 - 💼 I have over 6 years of working experience in the industry. 
 - 🌱 I am passionate about personal growth and continuous learning. 
 - 📫 How to reach me: send me an email at `ustefs@gmail.com` or DM me in social media.
